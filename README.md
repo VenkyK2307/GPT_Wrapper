@@ -1,7 +1,7 @@
 ### GPT4.0 Wrapper 
 
-==> Default token size = 100
-==> Default temperature = 0.9
+==> Default token size = 100<br>
+==> Default temperature = 0.9<br>
 (Can change in side GPT.html)
 
-NOTe : JS code (API) inside HTML file..
+NOTE : JS code (API) inside HTML file..
